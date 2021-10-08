@@ -8,6 +8,19 @@
 
 
 # Testing with react 17 and ezime
+
+npm i --save-dev  @testing-library/jest-dom
+npm i --save-dev @testing-library/react
+
+## Enzime Documentation
+https://enzymejs.github.io/enzyme/
+
+````
+npm i --save-dev enzyme enzyme-adapter-react-16
+````
+
+
+
 Should install from: 
 https://github.com/wojtekmaj/enzyme-adapter-react-17
 
